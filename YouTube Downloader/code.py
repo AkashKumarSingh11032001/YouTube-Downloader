@@ -6,7 +6,7 @@ my_video = YouTube(url)
 
 # print("*********************Video Title************************")
 # #get Video Title
-# print(my_video.title)
+print(my_video.title)
 
 # print("********************Tumbnail Image***********************")
 # #get Thumbnail Image
