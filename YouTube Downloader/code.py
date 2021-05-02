@@ -4,7 +4,7 @@ from pytube import YouTube
 url = 'Your URL goes here'
 my_video = YouTube(url)
 
-# print("*********************Video Title************************")
+print("*********************Video Title************************")
 # #get Video Title
 print(my_video.title)
 
