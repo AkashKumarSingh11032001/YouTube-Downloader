@@ -1,7 +1,7 @@
 #import the package
 from pytube import YouTube
 
-# url = 'Your URL goes here'
+url = 'Your URL goes here'
 # my_video = YouTube(url)
 
 # print("*********************Video Title************************")
