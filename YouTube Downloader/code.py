@@ -14,8 +14,8 @@ print(my_video.thumbnail_url)
 
 print("********************Download video*************************")
 # #get all the stream resolution for the 
-# for stream in my_video.streams:
-#     print(stream)
+for stream in my_video.streams:
+    print(stream)
 
 # #set stream resolution
 # my_video = my_video.streams.get_highest_resolution()
