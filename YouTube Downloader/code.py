@@ -2,7 +2,7 @@
 from pytube import YouTube
 
 url = 'Your URL goes here'
-# my_video = YouTube(url)
+my_video = YouTube(url)
 
 # print("*********************Video Title************************")
 # #get Video Title
