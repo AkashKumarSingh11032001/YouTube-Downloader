@@ -24,4 +24,4 @@ my_video = my_video.streams.get_highest_resolution()
 # #my_video = my_video.streams.first()
 
 # #Download video
-# my_video.download()
+my_video.download()
