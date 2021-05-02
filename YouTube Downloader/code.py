@@ -12,7 +12,7 @@ print("********************Tumbnail Image***********************")
 # #get Thumbnail Image
 print(my_video.thumbnail_url)
 
-# print("********************Download video*************************")
+print("********************Download video*************************")
 # #get all the stream resolution for the 
 # for stream in my_video.streams:
 #     print(stream)
