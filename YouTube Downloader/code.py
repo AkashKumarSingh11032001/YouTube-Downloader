@@ -18,7 +18,7 @@ for stream in my_video.streams:
     print(stream)
 
 # #set stream resolution
-# my_video = my_video.streams.get_highest_resolution()
+my_video = my_video.streams.get_highest_resolution()
 
 # #or
 # #my_video = my_video.streams.first()
