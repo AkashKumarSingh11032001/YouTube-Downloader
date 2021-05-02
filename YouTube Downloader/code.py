@@ -8,7 +8,7 @@ print("*********************Video Title************************")
 # #get Video Title
 print(my_video.title)
 
-# print("********************Tumbnail Image***********************")
+print("********************Tumbnail Image***********************")
 # #get Thumbnail Image
 # print(my_video.thumbnail_url)
 
